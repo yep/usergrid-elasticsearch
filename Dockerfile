@@ -29,4 +29,4 @@ EXPOSE 9200
 EXPOSE 9300
 
 # config
-ADD elasticsearch.yml /elasticsearch/config/elasticsearch.yml
+ADD elasticsearch.yml /elasticsearch/config/elasticsearch.yml 
