@@ -24,7 +24,7 @@ CMD ["/elasticsearch/bin/elasticsearch"]
 
 # expose ports
 #   - 9200: HTTP
-#   - 9300: transport
+#   - 9300: native transport
 EXPOSE 9200
 EXPOSE 9300
 
